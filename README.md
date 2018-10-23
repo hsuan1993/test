@@ -1,2 +1,5 @@
-# The project name is "Anki".
-> 10/22 update ui
+# Anki for Offline
+
+#####Update Log
+> + 10/22 update ui
+> + 10/23 modify ui
